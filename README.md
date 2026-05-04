@@ -44,7 +44,7 @@ El objetivo es reforzar la lógica de programación y construir una base sólida
 
 ---
 
-## 🛠Tecnologías
+## Tecnologías
 
 * Java
 * IntelliJ IDEA
